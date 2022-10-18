@@ -1,0 +1,58 @@
+html {
+position: relative;
+}
+
+body {
+    margin-bottom: 120px;
+    margin-top: 30px;
+}
+
+.jumbotron img {
+    width: 200px;
+    border: 5px solid #1f8ece;
+}
+
+hr {
+    width: 250px;
+    border-top: 3px solid rgb(5, 5, 5);
+}
+
+section {
+    min-height: 600px;
+}
+
+.about {
+    background-color: rgb(15, 227, 235);
+}
+.jumbotron {
+    background-color: mediumspringgreen;
+}
+.portofolio {
+    background-color: mediumseagreen;
+}
+.skill {
+    background-color: yellowgreen;
+}
+.contact {
+    background-color: burlywood;
+}
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    background-color: #333;
+    padding-top: 30px;
+}
+
+footer p {
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+footer p i {
+    color: salmon;
+}
